@@ -1,6 +1,9 @@
 Type,First,Last,Supplement
-Lactulose + Psyllium,Oct 3,Nov 16,True
-PEG (1/8 tsp),Nov 18,Nov 25,True
-PEG (1/4 tsp),Nov 26,Dec 11,True
-Fancy Feast,Oct 3,Oct 11,False
-Performatrin/Wellness/First Mate,Oct 12,Dec 11,False
+Lactulose + Psyllium,2021-10-3,2021-11-16,True
+PEG (1/8 tsp),2021-11-18,2021-11-25,True
+PEG (1/4 tsp),2021-11-26,2021-12-15,True
+PEG 1/8 + Psyll 1/8,2021-12-16,2022-01-02,True
+PEG 1/16 + Psyll 1/16,2022-01-03,2022-01-09,True
+Fancy Feast,2021-10-03,2021-10-11,False
+Performatrin/Wellness/First Mate,2021-10-12,2021-12-26,False
+Less First Mate & eating more,2021-12-27,2022-01-09,False
