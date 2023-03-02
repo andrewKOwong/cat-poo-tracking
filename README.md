@@ -30,7 +30,9 @@ A separate csv contains dates for different types of food and supplements.
 Execute the Jupyter notebook as usual, or view it directly on Github.
 
 ## Results
-![](2022-01-09_output.png)
+![](2022-02-23_output.png)
+After a few months of tracking, we decided that the best course of action was to feed Jackie only Performatrin (i.e. no First Mate), as well as omitting supplements.
+
 
 ### Further improvements
 
