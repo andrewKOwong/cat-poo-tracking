@@ -29,6 +29,9 @@ A separate csv contains dates for different types of food and supplements.
 
 Execute the Jupyter notebook as usual, or view it directly on Github.
 
+## Results
+![](2022-01-09_output.png)
+
 ### Further improvements
 
 The main plotting function contains a bunch of hard-coded values, and is worth refactoring if it were to be used for different cats/circumstances.
